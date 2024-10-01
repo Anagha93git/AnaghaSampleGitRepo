@@ -13,6 +13,8 @@ public class Implementation {
 	
 	public static void main (String[] args) throws IOException {
 		
+		System.out.println("sample test with GIT basics"); 
+		
 		HDFCpojo h = new HDFCpojo(); 
 		  h.readDataFromTextFile(); 
 		  h.setUsername("Ravi@user1"); 
