@@ -13,6 +13,9 @@ public class Implementation {
 	
 	public static void main (String[] args) throws IOException {
 		
+		System.out.println("Sample git basics with DEV"); 
+		System.out.println("Sample git basics with QA"); 
+		
 		HDFCpojo h = new HDFCpojo(); 
 		  h.readDataFromTextFile(); 
 		  h.setUsername("Ravi@user1"); 
